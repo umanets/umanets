@@ -25,4 +25,4 @@ I build AI agents and automation that solve real business problems: chat assista
 ## 📫 Contact
 
 - Email: [umanets@gmail.com](mailto:umanets@gmail.com)
-<!-- - LinkedIn: [Ihor Umanets](LINKEDIN_URL) -->
+- LinkedIn: [Ihor Umanets](https://www.linkedin.com/in/ihor-umanets-63792672/)
