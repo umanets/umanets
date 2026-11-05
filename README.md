@@ -30,4 +30,4 @@ This GitHub showcases selected projects in backend development, AI agents, autom
 ## 📫 Contact
 
 - Email: [umanets@gmail.com](mailto:umanets@gmail.com)
-- LinkedIn: [Ihor Umanets](https://www.linkedin.com/in/ihor-umanets-63792672/)
+- LinkedIn: [Ihor Umanets](https://www.linkedin.com/in/ihor-umanets/)
