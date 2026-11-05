@@ -1,15 +1,20 @@
 # Hi, I'm Ihor Umanets 👋
 
-**GenAI & Automation Engineer | Python, TypeScript, LangChain, MCP**
+Senior Software Engineer | AI Platform Engineering | TypeScript · Python · .NET
 
-I build AI agents and automation that solve real business problems: chat assistants with long-term memory, agent provisioning tooling, GenAI image pipelines, and integrations that pull data out of legacy systems nobody else wants to touch — and deliver it to Telegram bots, dashboards and APIs.
+I'm a software engineer with 15+ years of experience building enterprise applications and distributed systems across fintech, IoT, and Generative AI.
+
+My background spans full-stack development, backend architecture, and system integration. More recently, I've focused on AI platforms, GPU orchestration, and practical GenAI tooling.
+
+This GitHub showcases selected projects in backend development, AI agents, automation, and developer tooling.
 
 ## 🔧 What I work with
 
-- **GenAI / Agents:** OpenAI API, LangChain, MCP (Model Context Protocol), mem0, Qdrant, RAG, ComfyUI pipelines
-- **Backend:** Python (FastAPI), Node.js / TypeScript (NestJS, Express), PostgreSQL
-- **Frontend:** React, Vue 3
-- **Infra:** Docker, GitHub Actions, Electron, Windows/Linux
+- **Backend & APIs:** C#/.NET, TypeScript, Node.js (NestJS, Express), Python (FastAPI), PostgreSQL, REST APIs
+- **AI Platforms & GenAI:** GPU orchestration, ComfyUI, LLM/VLM integration, RAG, LangChain, MCP, Qdrant, mem0
+- **Frontend:** Angular, React, Vue 3, RxJS
+- **Infrastructure & DevOps:** Docker, CI/CD, GitHub Actions, GitLab CI, Azure DevOps, distributed systems
+- **Architecture:** Enterprise integrations, asynchronous workflows, fault tolerance, system design
 
 ## 📌 Selected projects
 
